@@ -2,4 +2,4 @@
 
 Brevity, dude.
 
-Another edit.
+Testing app reinstallation.
